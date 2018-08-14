@@ -31,3 +31,4 @@ class Zombie: Monster {
     town?.isMonsterAttacking = false
 }
 }
+

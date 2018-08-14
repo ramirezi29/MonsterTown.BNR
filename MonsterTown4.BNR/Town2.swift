@@ -8,7 +8,7 @@
 import Foundation
 
 struct Town {
-    var population = 5_422
+    var population = 5_421
     var numberOfStopLights = 4
     var isMonsterAttacking = false
     
